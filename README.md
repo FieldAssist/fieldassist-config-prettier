@@ -12,11 +12,11 @@ Know More: [Prettier Configuration](https://prettier.io/docs/en/configuration.ht
 $ npm i --D FieldAssist/fieldassist-config-prettier
 ```
 
-Import inside `.prettierrc`
+Import inside `.prettierrc.js`
 
 ```jsonc
 {
-  ...require("@FieldAssist/prettier-config"),
+  ...require("fieldassist-config-prettier"),
   // ...
 }
 ```

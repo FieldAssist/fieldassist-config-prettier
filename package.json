@@ -1,0 +1,10 @@
+{
+  "name": "fieldassist-config-prettier",
+  "version": "1.0.0",
+  "description": "Official FieldAssist Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:FieldAssist/prettier-config.git",
+  "author": "Ayush P Gupta <ayushpguptaapg@gmail.com>",
+  "license": "MIT",
+  "prettier": "@FieldAssist/prettier-config"
+}

@@ -9,7 +9,7 @@ Know More: [Prettier Configuration](https://prettier.io/docs/en/configuration.ht
 **Install**:
 
 ```bash
-$ npm i --D @FieldAssist/fieldassist-config-prettier
+$ npm i --D FieldAssist/fieldassist-config-prettier
 ```
 
 Import inside `.prettierrc`

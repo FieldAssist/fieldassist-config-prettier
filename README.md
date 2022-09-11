@@ -17,6 +17,6 @@ Import inside `.prettierrc.js`
 ```jsonc
 {
   ...require("fieldassist-config-prettier"),
-  // ...
+  // ... <override your project specific rules here> ...
 }
 ```

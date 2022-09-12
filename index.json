@@ -2,6 +2,7 @@
   "$schema": "http://json.schemastore.org/prettierrc",
   "singleQuote": true,
   "endOfLine": "lf",
-  "semi": false
+  "semi": false,
+  "jsonRecursiveSort": true
 }
 

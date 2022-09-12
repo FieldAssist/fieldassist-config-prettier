@@ -5,5 +5,10 @@
   "main": "index.json",
   "repository": "git@github.com:FieldAssist/fieldassist-config-prettier.git",
   "author": "Ayush P Gupta <ayushpguptaapg@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-sort-json": "^0.0.3",
+    "prettier-plugin-tailwindcss": "^0.1.13"
+  }
 }
